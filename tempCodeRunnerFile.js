@@ -1,1 +1,1 @@
-newSquaredArray
+resultStr
