@@ -1,1 +1,1 @@
-resultStr
+arr[j],arr[i]
