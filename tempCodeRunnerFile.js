@@ -1,1 +1,2 @@
-arr[j],arr[i]
+result.push(arr[j])
+                brea

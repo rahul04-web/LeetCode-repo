@@ -6,11 +6,11 @@ function sortArray(arr){
     const newArr=[]
 
     for(let i=0; i<arr.length; i++){
-        console.log(i+"i")
+        // console.log(i+"i")
         for(let j = i ; j < arr.length; j++){
-            console.log(j+"j")
+            // console.log(j+"j")
             if(arr[i]<arr[j]){
-                [arr[i],arr[j]]=[arr[j],arr[i]]
+                [arr[i],arr[j]]=[arr[j],arr[i]];
             }
         }
     }
