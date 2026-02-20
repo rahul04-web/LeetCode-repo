@@ -1,7 +1,7 @@
 //write a js fn to find the minimum element in an array without using sorting
 
 //inp : [3,4,9,1,6]
-//op:
+//op: 1
 
 function minimulEleArray(arr){
     let min = arr[0]
