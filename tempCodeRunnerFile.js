@@ -1,2 +1,1 @@
-result.push(arr[j])
-                brea
+swiss
